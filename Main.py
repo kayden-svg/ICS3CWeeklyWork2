@@ -1,5 +1,5 @@
 #############################################
-# Name: Your name
+# Name: Kayden
 # Class: ICS3C
 # Date: When It's Due
 # Project Name:
@@ -8,3 +8,4 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
+print("My name is Kayden")
