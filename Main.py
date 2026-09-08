@@ -11,3 +11,6 @@
 print("My name is \nKayden")
 print("my favorite color is blue")
 print("I Like Cars")
+print("oh hey there ")
+name = input("what is your name?")
+print("Hello " + name)
