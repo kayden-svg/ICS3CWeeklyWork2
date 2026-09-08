@@ -2,7 +2,7 @@
 # Name: Kayden
 # Class: ICS3C
 # Date: When It's Due
-# Project Name:
+# Project Name:Main Project
 #
 # Project Description
 #############################################
