@@ -9,3 +9,4 @@
 
 # THIS IS WHERE YOU CODE
 print("My name is Kayden")
+print("my favorite color is blue")
